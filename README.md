@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# RAGFrontend
-=======
 # Universal RAG Assistant - Frontend
 
 A modern React frontend for the Universal RAG Assistant FastAPI backend.
@@ -61,4 +58,3 @@ The built files will be in the `dist` directory.
 - **Axios** - HTTP client
 - **Lucide React** - Icons
 
->>>>>>> 8867bd8 (create full frontend)
