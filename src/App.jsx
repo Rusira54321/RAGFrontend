@@ -36,7 +36,7 @@ function App() {
               />
             </div>
             <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-primary-600 via-primary-700 to-indigo-600 bg-clip-text text-transparent">
-              Universal RAG Assistant
+              AskBot
             </h1>
           </motion.div>
           <p className="text-gray-600 text-lg">
