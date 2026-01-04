@@ -94,6 +94,7 @@ function App() {
           className="mt-12 text-center text-gray-500 text-sm"
         >
           <p>Powered by FastAPI & React</p>
+          <p>Created by Rusira Pinto</p>
         </motion.footer>
       </div>
     </div>
